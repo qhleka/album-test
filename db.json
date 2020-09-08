@@ -1,0 +1,26 @@
+{
+  "banner": [
+    "./images/111.jpg",
+    "./images/222.jpg",
+    "./images/333.jpg",
+    "./images/444.jpg"
+  ],
+  "gallery": {
+    "main": [
+      "./images/album002.jpg",
+      "./images/album001.jpg",
+      "./images/album000.jpg"
+    ],
+    "branch": [
+      "./images/album008.jpg",
+      "./images/album007.jpg",
+      "./images/album006.jpg",
+      "./images/album005.jpg",
+      "./images/album004.jpg",
+      "./images/album003.jpg",
+      "./images/album002.jpg",
+      "./images/album001.jpg",
+      "./images/album000.jpg"
+    ]
+  }
+}
